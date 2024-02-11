@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/GautamOb-409/GautamOb-409/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Gautam Oberoi</h1>
 <h3 align="center">A curious developer from India</h3>
